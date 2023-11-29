@@ -23,8 +23,7 @@ namespace exercicio_3
         {
             textBox1.Text = "";
             BackColor = default(Color);
-            textBox1.BackColor = default(Color);
-            textBox1.ForeColor = default(Color);
+            textBox1.BackColor = default(Color); 
         }
 
         private void button2_Click(object sender, EventArgs e)
